@@ -735,9 +735,6 @@ a {
     margin: auto auto auto auto;
 }
 
-/* p {
-     font-size: 11px; 
-} */
 @media (min-width:1px) and (max-width:800px) {
     .img-responsive {
         width: 320px;
@@ -850,7 +847,7 @@ h4 {
 }
 
 .tc-white {
-    color:rgb(0, 247, 255) !important;
+    color: #F3976C!important;
 }
 
 .btn-atomic-tangerine {
@@ -869,7 +866,7 @@ h4 {
 }
 
 .ltc-white {
-    color:rgb(0, 247, 255) !important;
+    color: #F3976C!important;
     font-size: 1.5rem;
 }
 
@@ -943,9 +940,6 @@ h4 {
 }
 
 @media (max-width: 991px) {
-    /* .container {
-        width: 50%;
-    } */
     .b-parallax {
         background-attachment: scroll;
     }
